@@ -62,8 +62,8 @@ manufacturer:keith Sterling
 purpose:further the understanding of chat bots
 logo:<img src="http://www.keithsterling.com/aiml/logo.png" width="128"/>
 religion:Atheist
-default-get:unknown
-default-property:unknown
-default-map:unknown
+default_get:unknown
+default_property:unknown
+default_map:unknown
 learn-filename:keiffbot-learn.aiml
 
